@@ -1,0 +1,23 @@
+
+
+*{
+    margin: 0;
+}
+
+.corAzul{
+    color: blue;
+    font-weight: 700px;
+    font-size: 20px;
+    text-shadow: 20px;
+    text-align: center;
+}
+
+#mudancaUnica{
+    font-size: 20px;
+    color: darkorange;
+    line-height: 20px;
+}
+
+
+
+
