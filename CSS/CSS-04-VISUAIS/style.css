@@ -1,0 +1,20 @@
+body{
+background-image: url("https://picsum.photos/id/1025/600/400");
+background-repeat: no-repeat;   
+background-size: 100%;
+background-position: center;
+background-attachment: scroll;
+}
+
+
+#primeiroParagrafo{
+  border: 2px dotted green;
+  border-radius: 10px;
+  
+}
+img{
+    border-radius: 10px;
+}
+#imagem{
+    border: 1px solid green;
+}
