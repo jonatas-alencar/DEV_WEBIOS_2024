@@ -1,3 +1,30 @@
-p:last-child{
-    background-color: aqua;
-    }   
+#botton{
+    border: 1px solid blueviolet;
+    background-color: green;
+    border-radius: 5px;
+}
+
+#botao:hover{
+color: brown;
+background-color: aquamarine;
+font-size: 100px;
+}
+
+#paragrafoHover:hover{
+    background-color: darkblue;
+    color: aqua;
+    border: 2px solid darkgreen;
+    font-size: 5px;
+}
+#WorldHeavyheight:hover{
+        font-family: "Jersey 10 charted";
+        font-weight: 400;
+        font-style: normal;
+
+}
+#imagem:hover{
+    box-shadow: 10px 10px 10px;
+    color: blue;
+    width: 700px;
+    height: 700px;
+}
