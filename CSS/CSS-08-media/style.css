@@ -1,0 +1,14 @@
+img{
+    width: 700px;
+}
+
+/*quando a largura da tela for 300px, as imagens terão uma legenda de 100px */
+/*enquanto a largura minima for de 450px a largura das imagens serão de 200px 
+min-width / max-width*/
+
+@media (max-width: 450px){
+    img{
+        width:200px;
+    }
+
+}
