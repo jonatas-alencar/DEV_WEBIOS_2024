@@ -1,0 +1,25 @@
+#container{
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    background-color: cadetblue;
+}
+#itens{
+    border: 1px solid black;
+
+}
+    
+#item-1{
+    grid-column-start: 3;
+    grid-column-end: 6;
+    grid-row-start: 2;
+    grid-row-end: 6;
+}
+
+#item8{
+    width: 50%;
+    height: 50%;
+    justify-self: stretch;
+    align-self: center;
+    place-self: center/center;
+}
