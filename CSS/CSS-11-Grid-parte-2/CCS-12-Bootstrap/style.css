@@ -1,1 +1,31 @@
+#nav1{
+    background-color: cornflowerblue;
+    border: 1px;
+    color: aliceblue;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+#nav2{
+    background-color: cornflowerblue;
+    border: 1px;
+    color: aliceblue;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+#nav3{
+    background-color: cornflowerblue;
+    border: 1px;
+    text-align: center;
+    color: aliceblue;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+#navegadores{
+    text-align: center;
+}
 

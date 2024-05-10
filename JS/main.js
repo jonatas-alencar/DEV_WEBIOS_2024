@@ -50,5 +50,41 @@ console.log(letsgo);
 
  var teste;
   console.log(teste)
+
+  //operadores
+
+  var operador1 = 8
+  var operador2 = null
+  console.log(operador1  *operador2)
+
+  var operador3 = "s"
+  var operador4 = 1
+  console.log(operador3 * operador4)
+
+  var operador5 = "s"
+  var operador6 = 1
+  console.log(operador5 )
+
+  console.clear()
+
+  var valor1 = 2
+  var valor2 = 2
+  var resultado = valor1 + valor2
+  console.log(resultado)
+  console.clear()
+  var compara = "2" == 2
+  // compara o valor e o tipo
+  // so esta comparando o valor valor
+  console.log(compara);
+  console.clear()
+  let valor3 = 4
+  let valor4 = 6
+  let resultado1 = valor3 > valor4 && valor3 == valor4
+//true e false == false
+//true e true == true
+// false e false == false
+// true OU false == true (prioridade)
+  console.log(resultado1)
+
  
 

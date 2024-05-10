@@ -23,3 +23,10 @@
     align-self: center;
     place-self: center/center;
 }
+
+.navegadores{
+    background-color: cornflowerblue;
+    border-radius: 20px solid black;
+    text-align: center;
+    padding: 15px;
+}
