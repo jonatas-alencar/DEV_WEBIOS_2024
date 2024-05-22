@@ -66,4 +66,4 @@ estado: "SP",
 }`
 
 console.log(JSONITO)
-console.log(JSON.parse(JSONITO))
+console.log(JSON.parse(JSONITO)) // transforma JSON em objeto
