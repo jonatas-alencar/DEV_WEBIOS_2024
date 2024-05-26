@@ -1,4 +1,4 @@
-ar alunos = [
+var alunos = [
     {
         nome: "Ana",
         idade: 17,
